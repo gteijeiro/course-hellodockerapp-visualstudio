@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SDtsdFkTvRzky29pkWiE6ivC45eriS9HPKIA+0wx+UA=",
+  "Source": "hellodockerapp",
+  "BasePath": "_content/hellodockerapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

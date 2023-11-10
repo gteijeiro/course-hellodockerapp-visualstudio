@@ -1,0 +1,7 @@
+C:\code\hellodockerapp\hellodockerapp\obj\Docker\publish\hellodockerapp.exe
+C:\code\hellodockerapp\hellodockerapp\obj\Docker\publish\appsettings.Development.json
+C:\code\hellodockerapp\hellodockerapp\obj\Docker\publish\appsettings.json
+C:\code\hellodockerapp\hellodockerapp\obj\Docker\publish\hellodockerapp.dll
+C:\code\hellodockerapp\hellodockerapp\obj\Docker\publish\hellodockerapp.deps.json
+C:\code\hellodockerapp\hellodockerapp\obj\Docker\publish\hellodockerapp.runtimeconfig.json
+C:\code\hellodockerapp\hellodockerapp\obj\Docker\publish\hellodockerapp.pdb

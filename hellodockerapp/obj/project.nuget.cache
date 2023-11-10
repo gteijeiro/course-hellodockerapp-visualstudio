@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kpb5cbPdAz8W0jxUV5vsHz5/igvxjH0lSb+AuSYuqLi8LQ4XEEP1Ixly9+B1BgnWnHMxxQP50C9e/u+UzZnO5w==",
+  "success": true,
+  "projectFilePath": "C:\\code\\hellodockerapp\\hellodockerapp\\hellodockerapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gteij\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
