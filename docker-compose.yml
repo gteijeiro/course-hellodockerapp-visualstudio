@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  hellodockerapp:
+    image: ${DOCKER_REGISTRY-}hellodockerapp
+    build:
+      context: .
+      dockerfile: hellodockerapp/Dockerfile
