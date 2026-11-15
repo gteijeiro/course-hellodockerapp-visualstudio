@@ -1,0 +1,8 @@
+# Local Visual Studio state and generated build output
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+# Create personal publish profiles locally; do not commit credentials.
+**/Properties/PublishProfiles/
